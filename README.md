@@ -1,2 +1,0 @@
-# CFH-Foundation-
-Super app
